@@ -55,9 +55,9 @@ pythom manage.py loaddata fixtures.json #<path-to-fixture-file>
 
 ## Setup front-end server
 
-run the following command to start the server:
+run the following command to start the server:  
 
-```bash
-npm install
-npm run dev
+```bash  
+npm install  
+npm run dev  
 ```
