@@ -135,3 +135,16 @@ LOGOUT_REDIRECT_URL = '/login'
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'  # During development only
 
+
+# EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_PORT = 587
+# EMAIL_HOST_USER = 'saurabhmodh94@gmail.com'
+# EMAIL_HOST_PASSWORD = 'phxasrdrgvfvfsdh'
+# EMAIL_USE_TLS = True
+# DEFAULT_FROM_EMAIL = 'TestSite Team <noreply@example.com>'
+
+
+# from django.core.mail import send_mail
+
+# send_mail('subject', None, 'sendabcder@example.com', ['201201206@daiict.ac.in'], html_message="<html><title>AA</title><head></head><body><h1>yo</h1></body></html>")
+
